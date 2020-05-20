@@ -5,7 +5,7 @@ A simple Python app, which makes requests to https://catfact.ninja/fact and prin
 The application is packaged as a Docker image, which allows running it without installing anything but Docker.
 
 ## Requirements
-[Docker](https://docs.docker.com/get-docker/) - that's it
+[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker](https://docs.docker.com/get-docker/) - that's it
 
 ## Usage
 1. Git clone this repository
